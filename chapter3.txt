@@ -1,3 +1,4 @@
 I have learned, git init command to intialize git in local system
 also i have learned git add command to add files in git 
 and git commit command to commit changes in my files 
+i had also learned git checkout command to move to the last version or commit 
